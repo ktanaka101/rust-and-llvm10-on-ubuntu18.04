@@ -6,7 +6,7 @@
 
 ## Summary
 
-This docker image installed rust and llvm10 on ubuntu18.04.
+Docker image with rust and llvm 10 installed on Ubuntu 18.04.
 
 ## Why?
 
