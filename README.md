@@ -10,5 +10,5 @@ Docker image with rust and llvm 10 installed on Ubuntu 18.04.
 
 ## Why?
 
-I making programming language.
+I making programming language.  
 That needed an environment with llvm10 and rust installed for CI test.
