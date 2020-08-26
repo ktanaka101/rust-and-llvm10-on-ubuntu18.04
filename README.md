@@ -2,7 +2,7 @@
 
 ## Download Image
 
-<https://hub.docker.com/repository/docker/ktanaka101/rust-and-llvm10-on-ubuntu18.04>
+<https://hub.docker.com/r/ktanaka101/rust-and-llvm10-on-ubuntu18.04>
 
 ## Summary
 
