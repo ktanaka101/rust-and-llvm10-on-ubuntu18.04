@@ -36,4 +36,7 @@ RUN curl https://sh.rustup.rs -sSf | sh -s -- -y
 
 ENV PATH $PATH:/root/.cargo/bin
 
+# fast build by rust in docker
+ENV CARGO_BUILD_TARGET_DIR=/tmp/target
+
 RUN rustup toolchain install nightly
